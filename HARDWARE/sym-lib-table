@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PioneerBMWInterface-rescue)(type Legacy)(uri ${KIPRJMOD}/PioneerBMWInterface-rescue.lib)(options "")(descr ""))
+)
